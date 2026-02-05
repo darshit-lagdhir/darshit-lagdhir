@@ -76,10 +76,10 @@
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🔥   My Stats :</h3>
 <div align="center">
 <a href="https://github.com/darshit-lagdhir">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=darshit-lagdhir&show_icons=true&theme=midnight-purple" />
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=darshit-lagdhir&theme=midnight-purple&https://github.com/pranesh-2005/github-readme-stats-fast" />
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=darshit-lagdhir&layout=compact" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshit-lagdhir&theme=midnight_purple" height="180em" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=darshit-lagdhir&show_icons=true&theme=midnight-purple" /><br><br>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=darshit-lagdhir&theme=midnight-purple&https://github.com/pranesh-2005/github-readme-stats-fast" /><br><br>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=darshit-lagdhir&theme=midnight-purple&layout=compact" /><br><br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshit-lagdhir&theme=midnight_purple" height="180em" /><br><br>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">⚡   Activity Graph :</h3>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=darshit-lagdhir&theme=react-dark"/>
