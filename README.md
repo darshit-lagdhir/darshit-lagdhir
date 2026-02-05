@@ -11,17 +11,12 @@
   <a href="darshitlagdhir@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://github.com/darshit-lagdhir" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=darshit-lagdhir.darshit-lagdhir&"  />
-</div>
-
-###
-
-<h1 align="center">👋 Hey, I’m Darshit</h1>
+<h1 align="center">👋 Hey, I’m Darshit</h1><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
@@ -33,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🛠   Language and tools :</h3>
 
 ###
 
@@ -77,22 +72,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<div>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshit-lagdhir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshit-lagdhir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=darshit-lagdhir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=darshit-lagdhir&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshit-lagdhir&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<a href="https://github.com/darshit-lagdhir">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=darshit-lagdhir&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=darshit-lagdhir&theme=midnight-purple&https://github.com/pranesh-2005/github-readme-stats-fast" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=darshit-lagdhir&layout=compact" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshit-lagdhir&theme=midnight_purple" height="180em" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/darshit-lagdhir/darshit-lagdhir/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">⚡   Activity Graph :</h3>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=darshit-lagdhir&theme=react-dark"/>
