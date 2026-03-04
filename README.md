@@ -26,22 +26,16 @@
 
 ###
 
-<p align="left">👨‍💻 About Me<br><br>
-
+<p align="left">
 I enjoy building large software systems, experimenting with different technologies, and figuring out how things actually work under the hood. Most of what I learn comes from building projects directly — even when I don’t fully know the tech yet.<br><br>
-
 My workflow is usually: get an idea, prototype it quickly (often with heavy prompting), test it aggressively, break a few things, redesign parts of the system, and eventually push something interesting to GitHub. That cycle repeats more times than I can count.<br><br>
-
 I like working on backend logic, system architecture, databases, and performance problems. Full-stack development is fun too, but I’m usually more curious about how the system works internally than how the UI looks — though users still deserve a decent interface.<br><br>
-
 Currently exploring areas like AI/ML, Cybersecurity, Networking, Linux systems, Cloud platforms, DevOps, Data Science, and Blockchain while continuing to build and experiment with new ideas.<br><br>
-
 Technologies I work with:<br>
 • C, C++, Java, Python, JavaScript<br>
 • HTML, CSS, Bootstrap, React, TypeScript, Node.js<br>
 • MySQL, MongoDB, SQLite, PostgreSQL<br>
 • Git, GitHub, VS Code, Google Cloud<br><br>
-
 Still building, still experimenting, and occasionally fixing bugs that mysteriously disappear after adding a print statement.</p>
 
 ###
