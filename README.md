@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">👋 Hey, I’m Darshit</h1><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Darshit Lagdhir</h1>
 
 ###
 
