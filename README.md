@@ -91,3 +91,17 @@ Still building, still experimenting, and occasionally fixing bugs that mysteriou
   <a href="https://github.com/darshit-lagdhir"><img src="https://streak-stats.demolab.com/?user=darshit-lagdhir&theme=midnight-purple&hide_border=false&cache_seconds=30" alt="darshit-lagdhir's GitHub Streak" width="50%" /></a>
   <a href="https://github.com/darshit-lagdhir"><img src="https://trophy.ryglcloud.net/?username=darshit-lagdhir&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=30" alt="Darshit Lagdhir's GitHub Trophies" /></a>
 </div>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/darshit-lagdhir)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/darshit-lagdhir)
+
+<h3 align="center">🔗 Connect With Me :</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshitlagdhir/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;<a href="mailto:darshitlagdhir@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" /></a>
+</p>
