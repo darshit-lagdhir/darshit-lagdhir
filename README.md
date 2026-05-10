@@ -25,6 +25,62 @@ Still building, still experimenting, and occasionally fixing bugs that mysteriou
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/darshit-lagdhir)
 
+<h3 align="center">🛠️ Languages & Tools :</h3>
+
+<table align="center">
+  <tr>
+    <!-- Column 1: Programming Languages -->
+    <td valign="top" width="33%">
+      <h3 align="center">Programming</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+      </p>
+    </td>
+    <!-- Column 2: Frontend -->
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+      </p>
+    </td>
+    <!-- Column 3: Backend -->
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Database</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">DevOps & Cloud</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/darshit-lagdhir)
+
+
 <h3 align="center">🔥 My Stats :</h3>
 <div align="center">
   <!-- Link 1 -->
