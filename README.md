@@ -13,9 +13,10 @@
 
 ###
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Darshit Lagdhir</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Darshit Lagdhir</h1>
 
-###
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/darshit-lagdhir)
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -36,59 +37,15 @@ Technologies I work with:<br>
 • Git, GitHub, VS Code, Google Cloud<br><br>
 Still building, still experimenting, and occasionally fixing bugs that mysteriously disappear after adding a print statement.</p>
 
-###
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/darshit-lagdhir)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🛠   Language and tools :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-<div>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats :</h3>
 <div align="center">
-<a href="https://github.com/darshit-lagdhir">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=darshit-lagdhir&show_icons=true&theme=midnight-purple" /><br><br>
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=darshit-lagdhir&theme=midnight-purple&https://github.com/pranesh-2005/github-readme-stats-fast" /><br><br>
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=darshit-lagdhir&theme=midnight-purple&layout=compact" /><br><br>
+  <!-- Link 1 -->
+  <a href="https://github.com/darshit-lagdhir"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darshit-lagdhir&cache_seconds=7200&layout=compact&theme=midnight-purple&border_radius=10" alt="darshit-lagdhir's GitHub Stats" /></a>&emsp;&emsp;
+  <!-- Link 2 -->
+  <a href="https://github.com/darshit-lagdhir"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darshit-lagdhir&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10" alt="Top Languages" /></a>
+  <br>
+  <a href="https://github.com/darshit-lagdhir"><img src="https://streak-stats.demolab.com/?user=darshit-lagdhir&theme=midnight-purple&hide_border=false&cache_seconds=30" alt="darshit-lagdhir's GitHub Streak" width="50%" /></a>
+  <a href="https://github.com/darshit-lagdhir"><img src="https://trophy.ryglcloud.net/?username=darshit-lagdhir&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=30" alt="Darshit Lagdhir's GitHub Trophies" /></a>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">⚡   Activity Graph :</h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=darshit-lagdhir&theme=react-dark"/>
