@@ -1,17 +1,4 @@
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/darshitlagdhir/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="darshitlagdhir@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://github.com/darshit-lagdhir" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" target="_blank"></a>
-</div>
-
-###
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Darshit Lagdhir</h1>
 
@@ -20,7 +7,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
 <p align="left">
 I enjoy building large software systems, experimenting with different technologies, and figuring out how things actually work under the hood.<br>
