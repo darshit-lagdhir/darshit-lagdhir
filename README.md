@@ -98,12 +98,12 @@ Still building, still experimenting, and occasionally fixing bugs that mysteriou
 <h3 align="center">🔥 My Stats :</h3>
 <div align="center">
   <!-- Link 1 -->
-  <a href="https://github.com/darshit-lagdhir"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darshit-lagdhir&cache_seconds=7200&layout=compact&theme=midnight-purple&border_radius=10" alt="darshit-lagdhir's GitHub Stats" /></a>&emsp;&emsp;
+  <a href="https://github.com/darshit-lagdhir"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darshit-lagdhir&cache_seconds=10&layout=compact&theme=midnight-purple&border_radius=10" alt="darshit-lagdhir's GitHub Stats" /></a>&emsp;&emsp;
   <!-- Link 2 -->
   <a href="https://github.com/darshit-lagdhir"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darshit-lagdhir&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10" alt="Top Languages" /></a>
   <br>
-  <a href="https://github.com/darshit-lagdhir"><img src="https://streak-stats.demolab.com/?user=darshit-lagdhir&theme=midnight-purple&hide_border=false&cache_seconds=30" alt="darshit-lagdhir's GitHub Streak" width="50%" /></a>
-  <a href="https://github.com/darshit-lagdhir"><img src="https://trophy.ryglcloud.net/?username=darshit-lagdhir&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=30" alt="Darshit Lagdhir's GitHub Trophies" /></a>
+  <a href="https://github.com/darshit-lagdhir"><img src="https://streak-stats.demolab.com/?user=darshit-lagdhir&theme=midnight-purple&hide_border=false&cache_seconds=10" alt="darshit-lagdhir's GitHub Streak" width="50%" /></a>
+  <a href="https://github.com/darshit-lagdhir"><img src="https://trophy.ryglcloud.net/?username=darshit-lagdhir&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=10" alt="Darshit Lagdhir's GitHub Trophies" /></a>
 </div>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/darshit-lagdhir)
