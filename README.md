@@ -102,7 +102,7 @@ Still building, still experimenting, and occasionally fixing bugs that mysteriou
   <!-- Link 2 -->
   <a href="https://github.com/darshit-lagdhir"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darshit-lagdhir&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10" alt="Top Languages" /></a>
   <br>
-  <a href="https://github.com/darshit-lagdhir"><img src="https://streak-stats.demolab.com/?user=darshit-lagdhir&theme=midnight-purple&hide_border=false&cache_seconds=10" alt="darshit-lagdhir's GitHub Streak" width="50%" /></a>
+  <a href="https://github.com/darshit-lagdhir"><img src="https://streak-stats.demolab.com/?user=darshit-lagdhir&theme=midnight-purple&hide_border=false" alt="darshit-lagdhir's GitHub Streak" width="50%" /></a>
   <a href="https://github.com/darshit-lagdhir"><img src="https://trophy.ryglcloud.net/?username=darshit-lagdhir&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=10" alt="Darshit Lagdhir's GitHub Trophies" /></a>
 </div>
 
